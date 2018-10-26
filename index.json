@@ -1,8 +1,10 @@
 [
-    { "Name":"Gabe Rivera", "Email":"gabrielrivera@lewisu.edu", "ContactURL":"https://gabesmainpage.azurewebsites.net/contacts/g14a83b30e.json" },
-    { "Name":"Gabe Rivera", "Email":"gabrielrivera@lewisu.edu", "ContactURL":"https://gabesmainpage.azurewebsites.net/contacts/g29a92b82e.json" },
-    { "Name":"Gabe Rivera", "Email":"gabrielrivera@lewisu.edu", "ContactURL":"https://gabesmainpage.azurewebsites.net/contacts/g23a28b10e.json" },
-    { "Name":"Eric Pogue", "Email":"epogue@lewisu.edu", "ContactURL":"https://mustang-index.azurewebsites.net/ldw6txsjg6.json" },
-    { "Name":"Eric Pogue", "Email":"epogue@lewisu.edu", "ContactURL":"https://mustang-index.azurewebsites.net/ldw6txsjg5.json" },
-    { "Name":"Eric Pogue", "Email":"epogue@lewisu.edu", "ContactURL":"https://mustang-index.azurewebsites.net/y2882154268.json" }
+  {"Name":"Nick Murphy", "Email":"ngayoso@lewisu.edu",             "ContactURL":"http://cpsc24700.azurewebsites.net/mustang_v1/22qzoejppl.json"},
+  {"Name":"Nick Murphy", "Email":"ngayoso@lewisu.edu", "ContactURL":"http://cpsc24700.azurewebsites.net/mustang_v1/ujg1xi5zxh.json"},
+  { "Name":"Gabe Rivera", "Email":"gabrielrivera@lewisu.edu", "ContactURL":"https://gabesmainpage.azurewebsites.net/contacts/g14a83b30e.json" },
+  { "Name":"Gabe Rivera", "Email":"gabrielrivera@lewisu.edu", "ContactURL":"https://gabesmainpage.azurewebsites.net/contacts/g29a92b82e.json" },
+  { "Name":"Gabe Rivera", "Email":"gabrielrivera@lewisu.edu", "ContactURL":"https://gabesmainpage.azurewebsites.net/contacts/g23a28b10e.json" },
+  { "Name":"Eric Pogue", "Email":"epogue@lewisu.edu", "ContactURL":"https://mustang-index.azurewebsites.net/ldw6txsjg6.json" },
+  { "Name":"Eric Pogue", "Email":"epogue@lewisu.edu", "ContactURL":"https://mustang-index.azurewebsites.net/ldw6txsjg5.json" },
+  { "Name":"Eric Pogue", "Email":"epogue@lewisu.edu", "ContactURL":"https://mustang-index.azurewebsites.net/y2882154268.json" }
 ]
