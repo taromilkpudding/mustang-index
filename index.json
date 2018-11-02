@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 [
+  { "Name": "Kwintyn Porter", "Email": "kwintynmporter@lewisu.edu", "ContactURL": "https://kwintynson.azurewebsites.net/fg1949sAbb.json" }, 
+  { "Name": "Kwintyn Porter", "Email": "kwintynmporter@lewisu.edu", "ContactURL": "https://madeupjson.azurewebsites.net/Gnn123Retl.json" },
+=======
+[ 
+>>>>>>> f49be64ced36b70893ae4ecdefb6903935310241
   { "Name":"Matt Goff", "Email":"matthewrgoff@lewisu.edu", "ContactURL":"https://mustangv1.azurewebsites.net/7bt2q1b9xj.json" },
   { "Name":"Matt Goff", "Email":"matthewrgoff@lewisu.edu", "ContactURL":"https://mustangv1.azurewebsites.net/mgrnyc0rof.json" },
   { "Name":"Elizabeth Hyland", "Email":"elizabethghyland@lewisu.edu", "ContactURL":"https://jessica-jones.azurewebsites.net/3200832974.json" },
